@@ -1,0 +1,12 @@
+[submodule "vscode"]
+	path = vscode
+	url = git@github.com:rose-pine/vscode
+[submodule "hyper"]
+	path = hyper
+	url = git@github.com:rose-pine/hyper
+[submodule "iterm"]
+	path = iterm
+	url = git@github.com:rose-pine/iterm
+[submodule "terminal-app"]
+	path = terminal-app
+	url = git@github.com:rose-pine/terminal.app
