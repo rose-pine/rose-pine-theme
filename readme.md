@@ -1,4 +1,4 @@
-<img src="images/rose.png" alt="Palette" width="100">
+<img src="images/rose.png" alt="Palette" width="70">
 
 # Rosé Pine
 
