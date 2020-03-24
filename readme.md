@@ -1,4 +1,4 @@
-![Logotype](assets/logotype.png)
+<img src="assets/logotype.png" width="300" />
 
 All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
