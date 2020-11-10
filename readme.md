@@ -1,4 +1,6 @@
-<img src="assets/logotype.png" width="300" />
+<img src="https://github.com/rose-pine/rose-pine-theme/blob/master/assets/icon.png" width="64" />
+
+# Rosé Pine
 
 All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
