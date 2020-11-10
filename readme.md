@@ -14,10 +14,15 @@ The community is encouraged to port Rosé Pine to your favourite apps!
 - [iTerm](https://github.com/rose-pine/iterm)
 - [Terminal.app](https://github.com/rose-pine/terminal.app)
 - [Hyper](https://github.com/rose-pine/hyper) ([@fvrests](https://github.com/fvrests))
-- [Sublime Text](https://github.com/rose-pine/sublime-text) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
 - [BetterDiscord](https://github.com/rose-pine/BetterDiscord) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
+- [Sublime Text](https://github.com/rose-pine/sublime-text) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
 - [Alacritty](https://github.com/rose-pine/alacritty) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
 - [Typora](https://github.com/rose-pine/typora) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
+- [GTK 3](https://github.com/rose-pine/gtk3) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
+- [Firefox](https://github.com/rose-pine/firefox) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
+- [Startpage](https://github.com/rose-pine/startpage) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
+- [Darkreader](https://github.com/rose-pine/darkreader) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
+- [Wallpaper Collection](https://github.com/rose-pine/wallpaper-collection) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
 
 ### Theme badge
 
