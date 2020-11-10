@@ -10,7 +10,7 @@ The community is encouraged to port Rosé Pine to your favourite apps!
 
 ## Palette
 
-![screenshot](https://media.discordapp.net/attachments/608697372054126594/775870937899597884/palette.png)
+<img src="https://media.discordapp.net/attachments/608697372054126594/775870937899597884/palette.png" width="128" />
 
 ### Official
 
