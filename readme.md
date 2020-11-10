@@ -6,7 +6,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ## Stargazing
 
-The community is encouraged to port Rosé Pine to your favourite apps!https://github.com/Jimmysit0
+The community is encouraged to port Rosé Pine to your favourite apps!
 
 ### Official
 
