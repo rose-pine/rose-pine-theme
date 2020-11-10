@@ -6,7 +6,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ## Stargazing
 
-The community is encouraged to port Rosé Pine to your favourite apps!
+The community is encouraged to port Rosé Pine to your favourite apps!https://github.com/Jimmysit0
 
 ### Official
 
@@ -22,7 +22,13 @@ The community is encouraged to port Rosé Pine to your favourite apps!
 - [Firefox](https://github.com/rose-pine/firefox) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
 - [Startpage](https://github.com/rose-pine/startpage) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
 - [Darkreader](https://github.com/rose-pine/darkreader) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
+- [Kitty](https://github.com/rose-pine/kitty) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
+- [Termite](https://github.com/rose-pine/termite) ([@Jimmysit0](https://github.com/Jimmysit0))
+
+### Wallpapers
+
 - [Wallpaper Collection](https://github.com/rose-pine/wallpaper-collection) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
+
 
 ### Theme badge
 
