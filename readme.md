@@ -8,6 +8,10 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 The community is encouraged to port Rosé Pine to your favourite apps!
 
+## Palette
+
+<img src="https://media.discordapp.net/attachments/608697372054126594/775870937899597884/palette.png" width="64" />
+
 ### Official
 
 - [VSCode](https://github.com/rose-pine/vscode)
