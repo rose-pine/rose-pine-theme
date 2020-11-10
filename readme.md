@@ -16,6 +16,8 @@ The community is encouraged to port Rosé Pine to your favourite apps!
 - [Hyper](https://github.com/rose-pine/hyper) ([@fvrests](https://github.com/fvrests))
 - [Sublime Text](https://github.com/rose-pine/sublime-text) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
 - [BetterDiscord](https://github.com/rose-pine/BetterDiscord) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
+- [Alacritty](https://github.com/rose-pine/alacritty) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
+- [Typora](https://github.com/rose-pine/typora) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
 
 ### Theme badge
 
