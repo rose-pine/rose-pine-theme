@@ -17,17 +17,23 @@ The community is encouraged to port Rosé Pine to your favourite apps!
 ### System themes
 
 - [GTK 3](https://github.com/rose-pine/gtk3) 
+- [Linux TTY](https://github.com/rose-pine/linux-tty)
 - Qtile (soon)
 
 ### Terminal Emulators
 
 - [Alacritty](https://github.com/rose-pine/alacritty) 
+- [Fluent Terminal](https://github.com/rose-pine/fluentterminal)
 - [Gnome Terminal](https://github.com/rose-pine/gnome-terminal)
 - [Hyper](https://github.com/rose-pine/hyper) 
 - [iTerm](https://github.com/rose-pine/iterm)
 - [Kitty](https://github.com/rose-pine/kitty)  
+- [Konsole](https://github.com/rose-pine/konsole)
+- [MinTTY](https://github.com/rose-pine/mintty)
 - [Terminal.app](https://github.com/rose-pine/terminal.app)
+- [Terminator](https://github.com/rose-pine/terminator)
 - [Termite](https://github.com/rose-pine/termite)
+- [XFCE4 Terminal](https://github.com/rose-pine/xfce4-terminal)
 
 ### Text Editors
 
