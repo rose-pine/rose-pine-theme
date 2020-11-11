@@ -22,7 +22,7 @@ The community is encouraged to port Rosé Pine to your favourite apps!
 ### Terminal Emulators
 
 - [Alacritty](https://github.com/rose-pine/alacritty) 
-- Gnome-terminal (soon)
+- [Gnome Terminal](https://github.com/rose-pine/gnome-terminal)
 - [Hyper](https://github.com/rose-pine/hyper) 
 - [iTerm](https://github.com/rose-pine/iterm)
 - [Kitty](https://github.com/rose-pine/kitty)  
