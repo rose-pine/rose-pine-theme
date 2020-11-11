@@ -30,6 +30,7 @@ The community is encouraged to port Rosé Pine to your favourite apps!
 - [Startpage](https://github.com/rose-pine/startpage) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
 - [Darkreader](https://github.com/rose-pine/darkreader) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
 - [Kitty](https://github.com/rose-pine/kitty) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
+- [Desmos Desktop](https://github.com/rose-pine/desmos-desktop) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
 - [Termite](https://github.com/rose-pine/termite) ([@Jimmysit0](https://github.com/Jimmysit0))
 
 ### Wallpapers
