@@ -28,6 +28,7 @@ The community is encouraged to port Rosé Pine to your favourite apps!
 - [Firefox](https://github.com/rose-pine/firefox) 
 - [Startpage](https://github.com/rose-pine/startpage) 
 - [Darkreader](https://github.com/rose-pine/darkreader) 
+- [Desmos](https://github.com/rose-pine/desmos-desktop) 
 
 ### Wallpapers
 
