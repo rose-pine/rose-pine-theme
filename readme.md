@@ -14,24 +14,24 @@ The community is encouraged to port Rosé Pine to your favourite apps!
 
 ### Official
 
-- [Hyper](https://github.com/rose-pine/hyper) ([@fvrests](https://github.com/fvrests))
+- [Hyper](https://github.com/rose-pine/hyper) 
 - [VSCode](https://github.com/rose-pine/vscode)
-- [Sublime Text](https://github.com/rose-pine/sublime-text) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [Typora](https://github.com/rose-pine/typora) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [Alacritty](https://github.com/rose-pine/alacritty) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [Kitty](https://github.com/rose-pine/kitty) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [Termite](https://github.com/rose-pine/termite) ([@Jimmysit0](https://github.com/Jimmysit0))
+- [Sublime Text](https://github.com/rose-pine/sublime-text) 
+- [Typora](https://github.com/rose-pine/typora) 
+- [Alacritty](https://github.com/rose-pine/alacritty) 
+- [Kitty](https://github.com/rose-pine/kitty) 
+- [Termite](https://github.com/rose-pine/termite) 
 - [iTerm](https://github.com/rose-pine/iterm)
 - [Terminal.app](https://github.com/rose-pine/terminal.app)
-- [BetterDiscord](https://github.com/rose-pine/BetterDiscord) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [GTK 3](https://github.com/rose-pine/gtk3) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [Firefox](https://github.com/rose-pine/firefox) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [Startpage](https://github.com/rose-pine/startpage) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [Darkreader](https://github.com/rose-pine/darkreader) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
+- [BetterDiscord](https://github.com/rose-pine/BetterDiscord) 
+- [GTK 3](https://github.com/rose-pine/gtk3) 
+- [Firefox](https://github.com/rose-pine/firefox) 
+- [Startpage](https://github.com/rose-pine/startpage) 
+- [Darkreader](https://github.com/rose-pine/darkreader) 
 
 ### Wallpapers
 
-- [Wallpaper Collection](https://github.com/rose-pine/wallpaper-collection) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
+- [Wallpaper Collection](https://github.com/rose-pine/wallpaper-collection) 
 
 
 ### Theme badge
