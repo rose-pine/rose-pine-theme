@@ -51,6 +51,6 @@
 	url = git@github.com:rose-pine/vscode
 	branch = master
 [submodule "wallpapers"]
-	path = wallpaper-collection
+	path = wallpapers
 	url = git@github.com:rose-pine/wallpapers
 	branch = master
