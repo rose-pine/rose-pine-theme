@@ -12,29 +12,46 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 The community is encouraged to port Rosé Pine to your favourite apps!
 
-### Official
+## Official
 
+### System themes
+
+- [GTK 3](https://github.com/rose-pine/gtk3) 
+- Qtile (soon)
+
+### Terminal Emulators
+
+- [Alacritty](https://github.com/rose-pine/alacritty) 
+- Gnome-terminal (soon)
 - [Hyper](https://github.com/rose-pine/hyper) 
-- [VSCode](https://github.com/rose-pine/vscode)
+- [iTerm](https://github.com/rose-pine/iterm)
+- [Kitty](https://github.com/rose-pine/kitty)  
+- [Terminal.app](https://github.com/rose-pine/terminal.app)
+- [Termite](https://github.com/rose-pine/termite)
+
+### Text Editors
+
 - [Sublime Text](https://github.com/rose-pine/sublime-text) 
 - [Typora](https://github.com/rose-pine/typora) 
-- [Alacritty](https://github.com/rose-pine/alacritty) 
-- [Kitty](https://github.com/rose-pine/kitty) 
-- [Termite](https://github.com/rose-pine/termite) 
-- [iTerm](https://github.com/rose-pine/iterm)
-- [Terminal.app](https://github.com/rose-pine/terminal.app)
-- [BetterDiscord](https://github.com/rose-pine/BetterDiscord) 
-- [GTK 3](https://github.com/rose-pine/gtk3) 
+- [VSCode](https://github.com/rose-pine/vscode)
+
+### Web
+
+- [Darkreader](https://github.com/rose-pine/darkreader) 
 - [Firefox](https://github.com/rose-pine/firefox) 
 - [Startpage](https://github.com/rose-pine/startpage) 
-- [Darkreader](https://github.com/rose-pine/darkreader) 
 
-### Wallpapers
+### Extras
+
+- [BetterDiscord](https://github.com/rose-pine/BetterDiscord) 
+- [Desmos Destkop](https://github.com/rose-pine/desmos-desktop)
+
+## Wallpapers
 
 - [Wallpaper Collection](https://github.com/rose-pine/wallpaper-collection) 
 
 
-### Theme badge
+## Theme badge
 
 [![](https://img.shields.io/badge/Rosé%20Pine%20Theme-191724)](https://github.com/rose-pine/rose-pine-theme)
 
