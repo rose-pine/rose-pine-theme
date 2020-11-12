@@ -16,6 +16,7 @@ The community is encouraged to port Rosé Pine to your favourite apps!
 
 ### System themes
 
+- [GRUB 2](https://github.com/rose-pine/grub2)
 - [GTK 3](https://github.com/rose-pine/gtk3) 
 - [Linux TTY](https://github.com/rose-pine/linux-tty)
 - Qtile (soon)
@@ -51,6 +52,7 @@ The community is encouraged to port Rosé Pine to your favourite apps!
 
 - [BetterDiscord](https://github.com/rose-pine/BetterDiscord) 
 - [Desmos Destkop](https://github.com/rose-pine/desmos-desktop)
+- [Razer-cli](https://github.com/rose-pine/razer-cli)
 
 ## Wallpapers
 
