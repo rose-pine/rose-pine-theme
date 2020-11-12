@@ -10,7 +10,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 The community is encouraged to port Rosé Pine to their favourite apps. To feature your port in our organisation, please create an issue on this repo.
 
-### System themes
+### System
 
 - [GRUB](https://github.com/rose-pine/grub)
 - [GTK](https://github.com/rose-pine/gtk)
