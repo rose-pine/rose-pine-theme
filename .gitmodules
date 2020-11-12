@@ -10,10 +10,22 @@
 	path = darkreader
 	url = git@github.com:rose-pine/darkreader
 	branch = master
+[submodule "desmos-desktop"]
+	path = desmos-desktop
+	url = git@github.com:rose-pine/desmos-desktop
 [submodule "firefox"]
 	path = firefox
 	url = git@github.com:rose-pine/firefox
 	branch = master
+[submodule "fluent-terminal"]
+	path = fluent-terminal
+	url = git@github.com:rose-pine/fluent-terminal
+[submodule "gnome-terminal"]
+	path = gnome-terminal
+	url = git@github.com:rose-pine/gnome-terminal
+[submodule "grub"]
+	path = grub
+	url = git@github.com:rose-pine/grub
 [submodule "gtk"]
 	path = gtk
 	url = git@github.com:rose-pine/gtk
@@ -30,6 +42,21 @@
 	path = kitty
 	url = git@github.com:rose-pine/kitty
 	branch = master
+[submodule "konsole"]
+	path = konsole
+	url = git@github.com:rose-pine/konsole
+[submodule "linux-tty"]
+	path = linux-tty
+	url = git@github.com:rose-pine/linux-tty
+[submodule "mintty"]
+	path = mintty
+	url = git@github.com:rose-pine/mintty
+[submodule "razer-cli"]
+	path = razer-cli
+	url = git@github.com:rose-pine/razer-cli
+[submodule "startpage"]
+	path = startpage
+	url = git@github.com:rose-pine/startpage
 [submodule "sublime"]
 	path = sublime
 	url = git@github.com:rose-pine/sublime
@@ -38,6 +65,9 @@
 	path = terminal.app
 	url = git@github.com:rose-pine/terminal.app
 	branch = master
+[submodule "terminator"]
+	path = terminator
+	url = git@github.com:rose-pine/terminator
 [submodule "termite"]
 	path = termite
 	url = git@github.com:rose-pine/termite
@@ -54,3 +84,6 @@
 	path = wallpapers
 	url = git@github.com:rose-pine/wallpapers
 	branch = master
+[submodule "xfce-terminal"]
+	path = xfce-terminal
+	url = git@github.com:rose-pine/xfce-terminal
