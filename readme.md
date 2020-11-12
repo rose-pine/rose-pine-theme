@@ -32,7 +32,7 @@ The community is encouraged to port Rosé Pine to their favourite apps. To featu
 - [Termite](https://github.com/rose-pine/termite)
 - [XFCE Terminal](https://github.com/rose-pine/xfce-terminal)
 
-### Text Editors
+### Text editors
 
 - [Sublime Text](https://github.com/rose-pine/sublime-text)
 - [Typora](https://github.com/rose-pine/typora)
