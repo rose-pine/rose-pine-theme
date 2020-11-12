@@ -12,8 +12,8 @@ The community is encouraged to port Rosé Pine to their favourite apps. To featu
 
 ### System
 
-- [GRUB](https://github.com/rose-pine/grub)
-- [GTK](https://github.com/rose-pine/gtk)
+- [GRUB 2](https://github.com/rose-pine/grub)
+- [GTK 3](https://github.com/rose-pine/gtk)
 - [Linux TTY](https://github.com/rose-pine/linux-tty)
 - Qtile (soon)
 
@@ -48,7 +48,7 @@ The community is encouraged to port Rosé Pine to their favourite apps. To featu
 
 - [BetterDiscord](https://github.com/rose-pine/betterdiscord)
 - [Desmos Destkop](https://github.com/rose-pine/desmos-desktop)
-- [Razer CLI](https://github.com/rose-pine/razer-cli)
+- [Razer-CLI](https://github.com/rose-pine/razer-cli)
 - [Wallpapers](https://github.com/rose-pine/wallpapers)
 
 ## Theme badge
