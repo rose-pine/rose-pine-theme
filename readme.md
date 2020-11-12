@@ -4,60 +4,52 @@
 
 All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
-## Palette
-
 <img src="https://media.discordapp.net/attachments/608697372054126594/775870937899597884/palette.png" width="346" />
 
 ## Stargazing
 
-The community is encouraged to port Rosé Pine to your favourite apps!
+The community is encouraged to port Rosé Pine to their favourite apps. To feature your port in our organisation, please create an issue on this repo.
 
-## Official
+### System themes
 
-### System Themes
-
-- [GRUB 2](https://github.com/rose-pine/grub2)
-- [GTK 3](https://github.com/rose-pine/gtk3) 
+- [GRUB](https://github.com/rose-pine/grub)
+- [GTK](https://github.com/rose-pine/gtk)
 - [Linux TTY](https://github.com/rose-pine/linux-tty)
 - Qtile (soon)
 
-### Terminal Emulators
+### Terminal emulators
 
-- [Alacritty](https://github.com/rose-pine/alacritty) 
-- [Fluent Terminal](https://github.com/rose-pine/fluentterminal)
+- [Alacritty](https://github.com/rose-pine/alacritty)
+- [Fluent Terminal](https://github.com/rose-pine/fluent-terminal)
 - [Gnome Terminal](https://github.com/rose-pine/gnome-terminal)
-- [Hyper](https://github.com/rose-pine/hyper) 
+- [Hyper](https://github.com/rose-pine/hyper)
 - [iTerm](https://github.com/rose-pine/iterm)
-- [Kitty](https://github.com/rose-pine/kitty)  
+- [Kitty](https://github.com/rose-pine/kitty)
 - [Konsole](https://github.com/rose-pine/konsole)
 - [MinTTY](https://github.com/rose-pine/mintty)
 - [Terminal.app](https://github.com/rose-pine/terminal.app)
 - [Terminator](https://github.com/rose-pine/terminator)
 - [Termite](https://github.com/rose-pine/termite)
-- [XFCE4 Terminal](https://github.com/rose-pine/xfce4-terminal)
+- [XFCE Terminal](https://github.com/rose-pine/xfce-terminal)
 
 ### Text Editors
 
-- [Sublime Text](https://github.com/rose-pine/sublime-text) 
-- [Typora](https://github.com/rose-pine/typora) 
+- [Sublime Text](https://github.com/rose-pine/sublime-text)
+- [Typora](https://github.com/rose-pine/typora)
 - [VSCode](https://github.com/rose-pine/vscode)
 
 ### Web
 
-- [Darkreader](https://github.com/rose-pine/darkreader) 
-- [Firefox](https://github.com/rose-pine/firefox) 
-- [Startpage](https://github.com/rose-pine/startpage) 
+- [Dark Reader](https://github.com/rose-pine/dark-reader)
+- [Firefox](https://github.com/rose-pine/firefox)
+- [Startpage](https://github.com/rose-pine/startpage)
 
 ### Extras
 
-- [BetterDiscord](https://github.com/rose-pine/BetterDiscord) 
+- [BetterDiscord](https://github.com/rose-pine/betterdiscord)
 - [Desmos Destkop](https://github.com/rose-pine/desmos-desktop)
-- [Razer-cli](https://github.com/rose-pine/razer-cli)
-
-## Wallpapers
-
-- [Wallpaper Collection](https://github.com/rose-pine/wallpaper-collection) 
-
+- [Razer CLI](https://github.com/rose-pine/razer-cli)
+- [Wallpapers](https://github.com/rose-pine/wallpapers)
 
 ## Theme badge
 
