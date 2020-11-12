@@ -4,40 +4,54 @@
 
 All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
-## Palette
-
 <img src="https://media.discordapp.net/attachments/608697372054126594/775870937899597884/palette.png" width="346" />
 
 ## Stargazing
 
-The community is encouraged to port Rosé Pine to your favourite apps!
+The community is encouraged to port Rosé Pine to their favourite apps. To feature your port in our organisation, please create an issue on this repo.
 
-### Official
+### System
 
-- [VSCode](https://github.com/rose-pine/vscode)
+- [GRUB](https://github.com/rose-pine/grub)
+- [GTK](https://github.com/rose-pine/gtk)
+- [Linux TTY](https://github.com/rose-pine/linux-tty)
+- Qtile (soon)
+
+### Terminal emulators
+
+- [Alacritty](https://github.com/rose-pine/alacritty)
+- [Fluent Terminal](https://github.com/rose-pine/fluent-terminal)
+- [Gnome Terminal](https://github.com/rose-pine/gnome-terminal)
+- [Hyper](https://github.com/rose-pine/hyper)
 - [iTerm](https://github.com/rose-pine/iterm)
+- [Kitty](https://github.com/rose-pine/kitty)
+- [Konsole](https://github.com/rose-pine/konsole)
+- [MinTTY](https://github.com/rose-pine/mintty)
 - [Terminal.app](https://github.com/rose-pine/terminal.app)
+- [Terminator](https://github.com/rose-pine/terminator)
+- [Termite](https://github.com/rose-pine/termite)
+- [XFCE Terminal](https://github.com/rose-pine/xfce-terminal)
 
-### Community
+### Text Editors
 
-- [Hyper](https://github.com/rose-pine/hyper) ([@fvrests](https://github.com/fvrests))
-- [BetterDiscord](https://github.com/rose-pine/BetterDiscord) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [Sublime Text](https://github.com/rose-pine/sublime-text) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [Alacritty](https://github.com/rose-pine/alacritty) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [Typora](https://github.com/rose-pine/typora) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [GTK 3](https://github.com/rose-pine/gtk3) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [Firefox](https://github.com/rose-pine/firefox) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [Startpage](https://github.com/rose-pine/startpage) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [Darkreader](https://github.com/rose-pine/darkreader) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [Kitty](https://github.com/rose-pine/kitty) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
-- [Termite](https://github.com/rose-pine/termite) ([@Jimmysit0](https://github.com/Jimmysit0))
+- [Sublime Text](https://github.com/rose-pine/sublime-text)
+- [Typora](https://github.com/rose-pine/typora)
+- [VSCode](https://github.com/rose-pine/vscode)
 
-### Wallpapers
+### Web
 
-- [Wallpaper Collection](https://github.com/rose-pine/wallpaper-collection) ([@ThatOneCalculator](https://github.com/ThatOneCalculator))
+- [Dark Reader](https://github.com/rose-pine/dark-reader)
+- [Firefox](https://github.com/rose-pine/firefox)
+- [Startpage](https://github.com/rose-pine/startpage)
 
+### Extras
 
-### Theme badge
+- [BetterDiscord](https://github.com/rose-pine/betterdiscord)
+- [Desmos Destkop](https://github.com/rose-pine/desmos-desktop)
+- [Razer CLI](https://github.com/rose-pine/razer-cli)
+- [Wallpapers](https://github.com/rose-pine/wallpapers)
+
+## Theme badge
 
 [![](https://img.shields.io/badge/Rosé%20Pine%20Theme-191724)](https://github.com/rose-pine/rose-pine-theme)
 
