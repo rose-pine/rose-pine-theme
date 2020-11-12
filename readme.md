@@ -14,7 +14,7 @@ The community is encouraged to port Rosé Pine to your favourite apps!
 
 ## Official
 
-### System themes
+### System Themes
 
 - [GRUB 2](https://github.com/rose-pine/grub2)
 - [GTK 3](https://github.com/rose-pine/gtk3) 
