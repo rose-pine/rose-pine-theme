@@ -1,22 +1,21 @@
 [submodule "alacritty"]
 	path = alacritty
 	url = git@github.com:rose-pine/alacritty
-	branch = master
+[submodule "atom"]
+	path = atom
+	url = git@github.com:rose-pine/atom
 [submodule "betterdiscord"]
 	path = betterdiscord
 	url = git@github.com:rose-pine/betterdiscord
-	branch = master
 [submodule "darkreader"]
 	path = darkreader
 	url = git@github.com:rose-pine/darkreader
-	branch = master
 [submodule "desmos-desktop"]
 	path = desmos-desktop
 	url = git@github.com:rose-pine/desmos-desktop
 [submodule "firefox"]
 	path = firefox
 	url = git@github.com:rose-pine/firefox
-	branch = master
 [submodule "fluent-terminal"]
 	path = fluent-terminal
 	url = git@github.com:rose-pine/fluent-terminal
@@ -29,19 +28,15 @@
 [submodule "gtk"]
 	path = gtk
 	url = git@github.com:rose-pine/gtk
-	branch = master
 [submodule "hyper"]
 	path = hyper
 	url = git@github.com:rose-pine/hyper
-	branch = master
 [submodule "iterm"]
 	path = iterm
 	url = git@github.com:rose-pine/iterm
-	branch = master
 [submodule "kitty"]
 	path = kitty
 	url = git@github.com:rose-pine/kitty
-	branch = master
 [submodule "konsole"]
 	path = konsole
 	url = git@github.com:rose-pine/konsole
@@ -60,30 +55,27 @@
 [submodule "sublime"]
 	path = sublime
 	url = git@github.com:rose-pine/sublime
-	branch = master
 [submodule "terminal.app"]
 	path = terminal.app
 	url = git@github.com:rose-pine/terminal.app
-	branch = master
 [submodule "terminator"]
 	path = terminator
 	url = git@github.com:rose-pine/terminator
 [submodule "termite"]
 	path = termite
 	url = git@github.com:rose-pine/termite
-	branch = master
 [submodule "typora"]
 	path = typora
 	url = git@github.com:rose-pine/typora
-	branch = master
 [submodule "vscode"]
 	path = vscode
 	url = git@github.com:rose-pine/vscode
-	branch = master
 [submodule "wallpapers"]
 	path = wallpapers
 	url = git@github.com:rose-pine/wallpapers
-	branch = master
+[submodule "windows-terminal"]
+	path = windows-terminal
+	url = git@github.com:rose-pine/windows-terminal
 [submodule "xfce-terminal"]
 	path = xfce-terminal
 	url = git@github.com:rose-pine/xfce-terminal
