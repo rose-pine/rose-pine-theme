@@ -2,6 +2,10 @@
 	path = alacritty
 	url = git@github.com:rose-pine/alacritty
 	branch = master
+[submodule "atom"]
+	path = atom
+	url = git@github.com:rose-pine/atom
+	branch = main
 [submodule "betterdiscord"]
 	path = betterdiscord
 	url = git@github.com:rose-pine/betterdiscord
