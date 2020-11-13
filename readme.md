@@ -30,10 +30,12 @@ The community is encouraged to port Rosé Pine to their favourite apps. To featu
 - [Terminal.app](https://github.com/rose-pine/terminal.app)
 - [Terminator](https://github.com/rose-pine/terminator)
 - [Termite](https://github.com/rose-pine/termite)
+- [Windows terminal](https://github.com/rose-pine/windows-terminal)
 - [XFCE Terminal](https://github.com/rose-pine/xfce-terminal)
 
 ### Text editors
 
+- [Atom](https://github.com/rose-pine/atom)
 - [Sublime Text](https://github.com/rose-pine/sublime-text)
 - [Typora](https://github.com/rose-pine/typora)
 - [VSCode](https://github.com/rose-pine/vscode)
