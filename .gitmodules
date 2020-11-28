@@ -79,3 +79,6 @@
 [submodule "xfce-terminal"]
 	path = xfce-terminal
 	url = git@github.com:rose-pine/xfce-terminal
+[submodule "st"]
+	path = st
+	url = git@github.com:rose-pine/st
