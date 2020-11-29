@@ -34,6 +34,7 @@ The community is encouraged to port Rosé Pine to their favourite apps. To featu
 - [Termite](https://github.com/rose-pine/termite)
 - [Windows Terminal](https://github.com/rose-pine/windows-terminal)
 - [XFCE Terminal](https://github.com/rose-pine/xfce-terminal)
+- [st](https://github.com/rose-pine/st)
 
 ### Text editors
 
