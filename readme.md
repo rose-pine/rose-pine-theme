@@ -41,6 +41,7 @@ The community is encouraged to port Rosé Pine to their favourite apps. To featu
 - [Atom](https://github.com/rose-pine/atom)
 - [Sublime Text](https://github.com/rose-pine/sublime-text)
 - [Typora](https://github.com/rose-pine/typora)
+- [Vim](https://github.com/iandwelker/rose-pine-vim) (by @iandwelker)
 - [VSCode](https://github.com/rose-pine/vscode)
 
 ### Web
@@ -55,12 +56,6 @@ The community is encouraged to port Rosé Pine to their favourite apps. To featu
 - [Desmos Destkop](https://github.com/rose-pine/desmos-desktop)
 - [Razer-CLI](https://github.com/rose-pine/razer-cli)
 - [Wallpapers](https://github.com/rose-pine/wallpapers)
-
-## Unofficial
-
-Lovely themes maintained outside of the Rosé Pine org.
-
-- [Vim](https://github.com/iandwelker/rose-pine-vim)
 
 ## Theme badge
 
