@@ -1,4 +1,4 @@
-<img src="https://github.com/rose-pine/rose-pine-theme/raw/master/assets/icon.png" width="64" />
+<img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="64" />
 
 # Rosé Pine
 
