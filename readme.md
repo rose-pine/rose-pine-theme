@@ -56,6 +56,12 @@ The community is encouraged to port Rosé Pine to their favourite apps. To featu
 - [Razer-CLI](https://github.com/rose-pine/razer-cli)
 - [Wallpapers](https://github.com/rose-pine/wallpapers)
 
+## Unofficial
+
+Lovely themes maintained outside of the Rosé Pine org.
+
+- [Vim](https://github.com/iandwelker/rose-pine-vim)
+
 ## Theme badge
 
 [![](https://img.shields.io/badge/Rosé%20Pine%20Theme-191724)](https://github.com/rose-pine/rose-pine-theme)
