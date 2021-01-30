@@ -8,6 +8,8 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 [Full colour palette with hex values](https://mellow.dev/rose-pine)
 
+[![Patreon](https://shields.io/badge/support_us_on-patreon-F96853?logo=patreon&style=for-the-badge)](https://patreon.com/rosepine)
+
 ## Stargazing
 
 The community is encouraged to port Rosé Pine to their favourite apps. To feature your port in our organisation, feel free to create a pull request 😌
