@@ -39,7 +39,7 @@ The community is encouraged to port Rosé Pine to their favourite apps. To featu
 ### Text editors
 
 - [Atom](https://github.com/rose-pine/atom)
-- [Emacs](https://github.com/nedovtipa/rose-pine-emacs) (by [nedovtipa](https://github.com/nedovtipa))
+- [Emacs](https://github.com/caelie/rose-pine-emacs) (by [caelie](https://github.com/caelie))
 - [Sublime Text](https://github.com/rose-pine/sublime-text)
 - [Typora](https://github.com/rose-pine/typora)
 - [Vim](https://github.com/iandwelker/rose-pine-vim) (by [iandwelker](https://github.com/iandwelker))
