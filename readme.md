@@ -26,6 +26,7 @@ The community is encouraged to port Rosé Pine to their favourite apps
 - [VSCode](https://github.com/rose-pine/vscode)
 - [Hyper](https://github.com/rose-pine/hyper)
 - [GTK 3](https://github.com/rose-pine/gtk)
+- [Wallpapers](https://github.com/rose-pine/wallpapers)
 
 ### Editors
 
