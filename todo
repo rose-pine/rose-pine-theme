@@ -1,0 +1,9 @@
+// all
+- remove .DS_Store from gitignore
+- update all ports with new icon path (assets/icon.png to images/logo.png)
+
+// rose-pine-theme
+x remove git submodules
+x remove gitignore
+- showcase all 3 variants ?
+- proper links to future rosepinetheme.com (Live Demo, Palette, Style Guide ?)
