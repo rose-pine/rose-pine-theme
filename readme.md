@@ -1,25 +1,42 @@
-<img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="64" />
+<p align="center">
+  <img src="assets/icon.png" width="80" />
+  <h2 align="center">Rosé Pine Theme</h2>
+</p>
 
-# Rosé Pine
+<p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
 
-All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
+<p align="center">
+  <a href="https://github.com/rose-pine/rose-pine-template#style-guide">Style guide</a>
+  ·
+  <a href="#contributing">Contributing</a>
+</p>
 
-<img src="https://media.discordapp.net/attachments/608697372054126594/775870937899597884/palette.png" width="346" />
-
-[Full colour palette with hex values](https://mellow.dev/rose-pine)
+<p align="center">
+  <img src="assets/palette.png" width="125" />
+  <img src="assets/palette-moon.png" width="125" />
+  <img src="assets/palette-dawn.png" width="125" />
+</p>
 
 ## Stargazing
 
-The community is encouraged to port Rosé Pine to their favourite apps. To feature your port in our organisation, feel free to create a pull request 😌
+The community is encouraged to port Rosé Pine to their favourite apps
 
-### System
+### Featured
 
-- [GRUB 2](https://github.com/rose-pine/grub)
+- [VSCode](https://github.com/rose-pine/vscode)
+- [Hyper](https://github.com/rose-pine/hyper)
 - [GTK 3](https://github.com/rose-pine/gtk)
-- [Linux TTY](https://github.com/rose-pine/linux-tty)
-- Qtile (soon)
 
-### Terminal emulators
+### Editors
+
+- [Atom](https://github.com/rose-pine/atom)
+- [Emacs](https://github.com/caelie/rose-pine-emacs) by [caelie](https://github.com/caelie)
+- [Sublime Text](https://github.com/rose-pine/sublime-text)
+- [Typora](https://github.com/rose-pine/typora)
+- [Vim](https://github.com/iandwelker/rose-pine-vim) by [iandwelker](https://github.com/iandwelker)
+- [VSCode](https://github.com/rose-pine/vscode)
+
+### Terminal
 
 - [Alacritty](https://github.com/rose-pine/alacritty)
 - [Fluent Terminal](https://github.com/rose-pine/fluent-terminal)
@@ -36,20 +53,17 @@ The community is encouraged to port Rosé Pine to their favourite apps. To featu
 - [XFCE Terminal](https://github.com/rose-pine/xfce-terminal)
 - [st](https://github.com/rose-pine/st)
 
-### Text editors
-
-- [Atom](https://github.com/rose-pine/atom)
-- [Emacs](https://github.com/nedovtipa/rose-pine-emacs) (by [nedovtipa](https://github.com/nedovtipa))
-- [Sublime Text](https://github.com/rose-pine/sublime-text)
-- [Typora](https://github.com/rose-pine/typora)
-- [Vim](https://github.com/iandwelker/rose-pine-vim) (by [iandwelker](https://github.com/iandwelker))
-- [VSCode](https://github.com/rose-pine/vscode)
-
 ### Web
 
 - [Dark Reader](https://github.com/rose-pine/dark-reader)
 - [Firefox](https://github.com/rose-pine/firefox)
 - [Startpage](https://github.com/rose-pine/startpage)
+
+### System
+
+- [GRUB 2](https://github.com/rose-pine/grub)
+- [GTK 3](https://github.com/rose-pine/gtk)
+- [Linux TTY](https://github.com/rose-pine/linux-tty)
 
 ### Extras
 
@@ -58,8 +72,10 @@ The community is encouraged to port Rosé Pine to their favourite apps. To featu
 - [Razer-CLI](https://github.com/rose-pine/razer-cli)
 - [Wallpapers](https://github.com/rose-pine/wallpapers)
 
-## Theme badge
+## Contributing
 
-[![](https://img.shields.io/badge/Rosé%20Pine%20Theme-191724)](https://github.com/rose-pine/rose-pine-theme)
+There's a plethora of surfaces out there waiting to be dipped in a lil Rosé Pine. See our [template](https://github.com/rose-pine/rose-pine-template) for more information and drop us a PR when ready. We can't wait to see what you create 🥰
 
-`[![](https://img.shields.io/badge/Rosé%20Pine%20Theme-191724)](https://github.com/rose-pine/rose-pine-theme)`
+Just here to show us some love? Feel free to donate to our [Patreon](https://patreon.com/rosepine)!
+
+If that's out of your reach right now, we also 💛 social appreciation, whether it be GitHub stars, [Twitter](https://twitter.com/rosepinetheme) follows, or shouting to your coworkers across the office.
