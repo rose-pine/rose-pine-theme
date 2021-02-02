@@ -65,6 +65,7 @@ The community is encouraged to port Rosé Pine to their favourite apps
 
 ### System
 
+- [bspwm](https://github.com/rose-pine/bspwm)
 - [GRUB 2](https://github.com/rose-pine/grub)
 - [GTK 3](https://github.com/rose-pine/gtk)
 - [Linux TTY](https://github.com/rose-pine/linux-tty)
