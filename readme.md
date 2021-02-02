@@ -38,6 +38,8 @@ The community is encouraged to port Rosé Pine to their favourite apps
 
 ### Terminal
 
+> Tip: We use [NerdFetch](https://github.com/thatonecalculator/nerdfetch) to make our lovely previews
+
 - [Alacritty](https://github.com/rose-pine/alacritty)
 - [Fluent Terminal](https://github.com/rose-pine/fluent-terminal)
 - [Gnome Terminal](https://github.com/rose-pine/gnome-terminal)
