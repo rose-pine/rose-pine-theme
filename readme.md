@@ -57,6 +57,7 @@ The community is encouraged to port Rosé Pine to their favourite apps
 
 ### Web
 
+- [Bear ʕ•ᴥ•ʔ](https://github.com/Caelie/rose-pine-bear) by [caelie](https://github.com/Caelie)
 - [Dark Reader](https://github.com/rose-pine/dark-reader)
 - [Firefox](https://github.com/rose-pine/firefox)
 - [Startpage](https://github.com/rose-pine/startpage)
