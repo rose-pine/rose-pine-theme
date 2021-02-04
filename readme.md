@@ -19,7 +19,7 @@
 
 ## Stargazing
 
-The community is encouraged to port Rosé Pine to their favourite apps
+The community is encouraged to port Rosé Pine to their favourite apps 🌸
 
 ### Featured
 
