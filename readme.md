@@ -19,13 +19,13 @@
 
 ## Stargazing
 
-The community is encouraged to port Rosé Pine to their favourite apps
+The community is encouraged to port Rosé Pine to their favourite apps!
 
 ### Featured
 
-- [VSCode](https://github.com/rose-pine/vscode)
-- [Hyper](https://github.com/rose-pine/hyper)
 - [GTK 3](https://github.com/rose-pine/gtk)
+- [Hyper](https://github.com/rose-pine/hyper)
+- [VSCode](https://github.com/rose-pine/vscode)
 - [Wallpapers](https://github.com/rose-pine/wallpapers)
 
 ### Editors
