@@ -34,6 +34,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Emacs](https://github.com/caelie/rose-pine-emacs) by [caelie](https://github.com/caelie)
 - [Sublime Text](https://github.com/rose-pine/sublime-text)
 - [Typora](https://github.com/rose-pine/typora)
+- [Vim](https://gitlab.com/co1ncidence/rose-pine) by [co1ncidence](https://github.com/co1ncidence)
 - [Vim](https://github.com/iandwelker/rose-pine-vim) by [iandwelker](https://github.com/iandwelker)
 - [VSCode](https://github.com/rose-pine/vscode)
 
