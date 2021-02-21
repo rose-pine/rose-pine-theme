@@ -28,12 +28,11 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [GTK 3](https://github.com/rose-pine/gtk)
 - [Wallpapers](https://github.com/rose-pine/wallpapers)
 
-### Editors
+### Development
 
 - [Atom](https://github.com/rose-pine/atom)
 - [Emacs](https://github.com/caelie/rose-pine-emacs) by [caelie](https://github.com/caelie)
 - [Sublime Text](https://github.com/rose-pine/sublime-text)
-- [Typora](https://github.com/rose-pine/typora)
 - [Vim](https://gitlab.com/co1ncidence/rose-pine) by [co1ncidence](https://github.com/co1ncidence)
 - [Vim](https://github.com/iandwelker/rose-pine-vim) by [iandwelker](https://github.com/iandwelker)
 - [VSCode](https://github.com/rose-pine/vscode)
@@ -57,6 +56,12 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [XFCE Terminal](https://github.com/rose-pine/xfce-terminal)
 - [st](https://github.com/rose-pine/st)
 
+### Productivity 
+
+- [Desmos Destkop](https://github.com/rose-pine/desmos-desktop)
+- [Typora](https://github.com/rose-pine/typora)
+- [Zathura](https://github.com/edunfelt/zathura) by [edunfelt](https://github.com/edunfelt)
+
 ### Web
 
 - [Bear ʕ•ᴥ•ʔ](https://github.com/Caelie/rose-pine-bear) by [caelie](https://github.com/Caelie)
@@ -75,7 +80,6 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 ### Extras
 
 - [BetterDiscord](https://github.com/rose-pine/betterdiscord)
-- [Desmos Destkop](https://github.com/rose-pine/desmos-desktop)
 - [Razer-CLI](https://github.com/rose-pine/razer-cli)
 - [Wallpapers](https://github.com/rose-pine/wallpapers)
 
