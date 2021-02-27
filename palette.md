@@ -55,22 +55,22 @@
 
 **Accent**
 
-|                                                         | Usage | Hex      | RGB           | HSL         |     |
-| ------------------------------------------------------- | ----- | -------- | ------------- | ----------- | --- |
-| <img src="assets/rose-pine-dawn/love.png" width="25" /> | Love  | `b4637a` | `180 99 122`  | `343 35 55` |     |
-| <img src="assets/rose-pine-dawn/gold.png" width="25" /> | Gold  | `ea9d34` | `234 157 52`  | `35 81 56`  |     |
-| <img src="assets/rose-pine-dawn/rose.png" width="25" /> | Rose  | `d7827e` | `215 130 126` | `2 53 67`   |     |
-| <img src="assets/rose-pine-dawn/pine.png" width="25" /> | Pine  | `286983` | `40 105 131`  | `197 53 34` |     |
-| <img src="assets/rose-pine-dawn/foam.png" width="25" /> | Foam  | `56949f` | `86 148 159`  | `188 30 48` |     |
-| <img src="assets/rose-pine-dawn/iris.png" width="25" /> | Iris  | `907aa9` | `144 122 169` | `268 22 57` |     |
+|                                                         | Usage | Hex      | RGB           | HSL         |
+| ------------------------------------------------------- | ----- | -------- | ------------- | ----------- |
+| <img src="assets/rose-pine-dawn/love.png" width="25" /> | Love  | `b4637a` | `180 99 122`  | `343 35 55` |
+| <img src="assets/rose-pine-dawn/gold.png" width="25" /> | Gold  | `ea9d34` | `234 157 52`  | `35 81 56`  |
+| <img src="assets/rose-pine-dawn/rose.png" width="25" /> | Rose  | `d7827e` | `215 130 126` | `2 53 67`   |
+| <img src="assets/rose-pine-dawn/pine.png" width="25" /> | Pine  | `286983` | `40 105 131`  | `197 53 34` |
+| <img src="assets/rose-pine-dawn/foam.png" width="25" /> | Foam  | `56949f` | `86 148 159`  | `188 30 48` |
+| <img src="assets/rose-pine-dawn/iris.png" width="25" /> | Iris  | `907aa9` | `144 122 169` | `268 22 57` |
 
 **Neutral**
 
-|                                                                 | Usage        | Hex      | RGB           | HSL         |     |
-| --------------------------------------------------------------- | ------------ | -------- | ------------- | ----------- | --- |
-| <img src="assets/rose-pine-dawn/text.png" width="25" />         | Text         | `575279` | `87 82 121`   | `248 19 40` |     |
-| <img src="assets/rose-pine-dawn/text-subtle.png" width="25" />  | Subtle text  | `6e6a86` | `110 106 134` | `249 12 47` |     |
-| <img src="assets/rose-pine-dawn/text-ignored.png" width="25" /> | Ignored text | `9893a5` | `152 147 165` | `257 9 61`  |     |
-| <img src="assets/rose-pine-dawn/overlay.png" width="25" />      | Overlay      | `f2e9de` | `242 233 222` | `33 43 91`  |     |
-| <img src="assets/rose-pine-dawn/surface.png" width="25" />      | Surface      | `fffaf3` | `255 250 243` | `35 100 98` |     |
-| <img src="assets/rose-pine-dawn/base.png" width="25" />         | Base         | `faf4ed` | `250 244 237` | `32 57 95`  |     |
+|                                                                 | Usage        | Hex      | RGB           | HSL         |
+| --------------------------------------------------------------- | ------------ | -------- | ------------- | ----------- |
+| <img src="assets/rose-pine-dawn/text.png" width="25" />         | Text         | `575279` | `87 82 121`   | `248 19 40` |
+| <img src="assets/rose-pine-dawn/text-subtle.png" width="25" />  | Subtle text  | `6e6a86` | `110 106 134` | `249 12 47` |
+| <img src="assets/rose-pine-dawn/text-ignored.png" width="25" /> | Ignored text | `9893a5` | `152 147 165` | `257 9 61`  |
+| <img src="assets/rose-pine-dawn/overlay.png" width="25" />      | Overlay      | `f2e9de` | `242 233 222` | `33 43 91`  |
+| <img src="assets/rose-pine-dawn/surface.png" width="25" />      | Surface      | `fffaf3` | `255 250 243` | `35 100 98` |
+| <img src="assets/rose-pine-dawn/base.png" width="25" />         | Base         | `faf4ed` | `250 244 237` | `32 57 95`  |
