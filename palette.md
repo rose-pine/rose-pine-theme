@@ -3,7 +3,9 @@
   <h2 align="center">Rosé Pine Colors</h2>
 </p>
 
-## Rosé Pine
+<p align="center">The official soho vibes palette 😌</p>
+
+### Rosé Pine
 
 **Accent**
 
@@ -27,7 +29,7 @@
 | <img src="assets/rose-pine/surface.png" width="25" />      | Surface      | `1f1d2e` | `31 29 46`    | `247 23 15` |
 | <img src="assets/rose-pine/base.png" width="25" />         | Base         | `191724` | `25 23 36`    | `249 22 12` |
 
-## Rosé Pine Moon
+### Rosé Pine Moon
 
 **Accent**
 
@@ -51,7 +53,7 @@
 | <img src="assets/rose-pine-moon/surface.png" width="25" />      | Surface      | `2a273f` | `42 39 63`    | `248 23 20` |
 | <img src="assets/rose-pine-moon/base.png" width="25" />         | Base         | `232136` | `35 33 54`    | `246 24 17` |
 
-## Rosé Pine Dawn
+### Rosé Pine Dawn
 
 **Accent**
 
