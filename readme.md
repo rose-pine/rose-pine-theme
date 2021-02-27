@@ -6,6 +6,8 @@
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
 
 <p align="center">
+  <a href="palette.md">Palette</a>
+  ·
   <a href="https://github.com/rose-pine/rose-pine-template#style-guide">Style guide</a>
   ·
   <a href="#contributing">Contributing</a>
@@ -56,7 +58,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [XFCE Terminal](https://github.com/rose-pine/xfce-terminal)
 - [st](https://github.com/rose-pine/st)
 
-### Productivity 
+### Productivity
 
 - [Desmos Destkop](https://github.com/rose-pine/desmos-desktop)
 - [Typora](https://github.com/rose-pine/typora)
