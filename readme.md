@@ -81,6 +81,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 
 ### Extras
 
+- [Base16](https://github.com/edunfelt/base16-rose-pine-scheme) by [edunfelt](https://github.com/edunfelt)
 - [BetterDiscord](https://github.com/rose-pine/betterdiscord)
 - [Razer-CLI](https://github.com/rose-pine/razer-cli)
 - [Wallpapers](https://github.com/rose-pine/wallpapers)
