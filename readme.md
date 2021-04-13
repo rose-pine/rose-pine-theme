@@ -25,7 +25,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 
 ### Featured
 
-- [VSCode](https://github.com/rose-pine/vscode)
+- ⍟ [VSCode](https://github.com/rose-pine/vscode)
 - [Hyper](https://github.com/rose-pine/hyper)
 - [GTK 3](https://github.com/rose-pine/gtk)
 - [Wallpapers](https://github.com/rose-pine/wallpapers)
@@ -37,7 +37,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Sublime Text](https://github.com/rose-pine/sublime-text)
 - [Vim](https://gitlab.com/co1ncidence/rose-pine) by [co1ncidence](https://github.com/co1ncidence)
 - [Vim](https://github.com/iandwelker/rose-pine-vim) by [iandwelker](https://github.com/iandwelker)
-- [VSCode](https://github.com/rose-pine/vscode)
+- ⍟ [VSCode](https://github.com/rose-pine/vscode)
 
 ### Terminal
 
@@ -47,11 +47,11 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Fluent Terminal](https://github.com/rose-pine/fluent-terminal)
 - [Gnome Terminal](https://github.com/rose-pine/gnome-terminal)
 - [Hyper](https://github.com/rose-pine/hyper)
-- [iTerm](https://github.com/rose-pine/iterm)
+- ⍟ [iTerm](https://github.com/rose-pine/iterm)
 - [Kitty](https://github.com/rose-pine/kitty)
 - [Konsole](https://github.com/rose-pine/konsole)
 - [MinTTY](https://github.com/rose-pine/mintty)
-- [Terminal.app](https://github.com/rose-pine/terminal.app)
+- ⍟ [Terminal.app](https://github.com/rose-pine/terminal.app)
 - [Terminator](https://github.com/rose-pine/terminator)
 - [Termite](https://github.com/rose-pine/termite)
 - [Windows Terminal](https://github.com/rose-pine/windows-terminal)
