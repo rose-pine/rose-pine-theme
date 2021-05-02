@@ -63,6 +63,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Desmos Destkop](https://github.com/rose-pine/desmos-desktop)
 - [Typora](https://github.com/rose-pine/typora)
 - [Zathura](https://github.com/edunfelt/zathura) by [edunfelt](https://github.com/edunfelt)
+- [Matplotlib](https://github.com/h4pZ/rose-pine-matplotlib) by [h4pZ](https://github.com/h4pz)
 
 ### Web
 
