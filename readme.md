@@ -48,7 +48,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Gnome Terminal](https://github.com/rose-pine/gnome-terminal)
 - [Hyper](https://github.com/rose-pine/hyper)
 - ⍟ [iTerm](https://github.com/rose-pine/iterm)
-- [Kitty](https://github.com/rose-pine/kitty)
+- ⍟ [Kitty](https://github.com/rose-pine/kitty)
 - [Konsole](https://github.com/rose-pine/konsole)
 - [MinTTY](https://github.com/rose-pine/mintty)
 - ⍟ [Terminal.app](https://github.com/rose-pine/terminal.app)
