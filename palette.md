@@ -29,6 +29,16 @@
 | <img src="assets/rose-pine/surface.png" width="25" />      | Surface      | `1f1d2e` | `31 29 46`    | `247 23 15` |
 | <img src="assets/rose-pine/base.png" width="25" />         | Base         | `191724` | `25 23 36`    | `249 22 12` |
 
+**Highlights**
+
+> It is recommended to use the alpha version when possible
+
+|     | Usage              | Hex                      |
+| --- | -----------------  | ------------------------ |
+|     | Overlay highlight  | `3a384a` or `6e6a86 40%` |
+|     | Highlight          | `2a2837` or `6e6a86 20%` |
+|     | Inactive highlight | `211f2d` or `6e6a86 10%` |
+
 ## Rosé Pine Moon
 
 **Accent**
@@ -53,6 +63,16 @@
 | <img src="assets/rose-pine-moon/surface.png" width="25" />      | Surface      | `2a273f` | `42 39 63`    | `248 23 20` |
 | <img src="assets/rose-pine-moon/base.png" width="25" />         | Base         | `232136` | `35 33 54`    | `246 24 17` |
 
+**Highlights**
+
+> It is recommended to use the alpha version when possible
+
+|     | Usage              | Hex                      |
+| --- | -----------------  | ------------------------ |
+|     | Overlay highlight  | `3f3c53` or `817c9c 30%` |
+|     | Highlight          | `312f44` or `817c9c 15%` |
+|     | Inactive highlight | `2a283d` or `817c9c  8%` |
+
 ## Rosé Pine Dawn
 
 **Accent**
@@ -76,3 +96,13 @@
 | <img src="assets/rose-pine-dawn/overlay.png" width="25" />      | Overlay      | `f2e9de` | `242 233 222` | `33 43 91`  |
 | <img src="assets/rose-pine-dawn/surface.png" width="25" />      | Surface      | `fffaf3` | `255 250 243` | `35 100 98` |
 | <img src="assets/rose-pine-dawn/base.png" width="25" />         | Base         | `faf4ed` | `250 244 237` | `32 57 95`  |
+
+**Highlights**
+
+> It is recommended to use the alpha version when possible
+
+|     | Usage              | Hex                      |
+| --- | -----------------  | ------------------------ |
+|     | Overlay highlight  | `e4dfde` or `6e6a86 15%` |
+|     | Highlight          | `eee9e6` or `6e6a86  8%` |
+|     | Inactive highlight | `f2ede9` or `6e6a86  5%` |
