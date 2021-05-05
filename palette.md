@@ -33,11 +33,11 @@
 
 > It is recommended to use the alpha version when possible
 
-|     | Usage              | Hex                      |
-| --- | -----------------  | ------------------------ |
-|     | Overlay highlight  | `3a384a` or `6e6a86 40%` |
-|     | Highlight          | `2a2837` or `6e6a86 20%` |
-|     | Inactive highlight | `211f2d` or `6e6a86 10%` |
+|                                                                  | Usage              | Hex      | Hex (alpha)  |
+| ---------------------------------------------------------------- | -----------------  | -------- | ------------ |
+| <img src="assets/rose-pine/highlight-overlay.png" width="25" />  | Overlay highlight  | `3a384a` | `6e6a86 40%` |
+| <img src="assets/rose-pine/highlight.png" width="25" />          | Highlight          | `2a2837` | `6e6a86 20%` |
+| <img src="assets/rose-pine/highlight-inactive.png" width="25" /> | Inactive highlight | `211f2d` | `6e6a86 10%` |
 
 ## Rosé Pine Moon
 
@@ -67,11 +67,11 @@
 
 > It is recommended to use the alpha version when possible
 
-|     | Usage              | Hex                      |
-| --- | -----------------  | ------------------------ |
-|     | Overlay highlight  | `3f3c53` or `817c9c 30%` |
-|     | Highlight          | `312f44` or `817c9c 15%` |
-|     | Inactive highlight | `2a283d` or `817c9c  8%` |
+|                                                                       | Usage              | Hex      | Hex (alpha)  |
+| --------------------------------------------------------------------- | -----------------  | -------- | ------------ |
+| <img src="assets/rose-pine-moon/highlight-overlay.png" width="25" />  | Overlay highlight  | `3f3c53` | `817c9c 30%` |
+| <img src="assets/rose-pine-moon/highlight.png" width="25" />          | Highlight          | `312f44` | `817c9c 15%` |
+| <img src="assets/rose-pine-moon/highlight-inactive.png" width="25" /> | Inactive highlight | `2a283d` | `817c9c  8%` |
 
 ## Rosé Pine Dawn
 
@@ -101,8 +101,8 @@
 
 > It is recommended to use the alpha version when possible
 
-|     | Usage              | Hex                      |
-| --- | -----------------  | ------------------------ |
-|     | Overlay highlight  | `e4dfde` or `6e6a86 15%` |
-|     | Highlight          | `eee9e6` or `6e6a86  8%` |
-|     | Inactive highlight | `f2ede9` or `6e6a86  5%` |
+|                                                                       | Usage              | Hex      | Hex (alpha)  |
+| --------------------------------------------------------------------- | -----------------  | -------- | ------------ |
+| <img src="assets/rose-pine-dawn/highlight-overlay.png" width="25" />  | Overlay highlight  | `e4dfde` | `6e6a86 15%` |
+| <img src="assets/rose-pine-dawn/highlight.png" width="25" />          | Highlight          | `eee9e6` | `6e6a86  8%` |
+| <img src="assets/rose-pine-dawn/highlight-inactive.png" width="25" /> | Inactive highlight | `f2ede9` | `6e6a86  5%` |
