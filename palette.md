@@ -106,3 +106,37 @@
 | <img src="assets/rose-pine-dawn/highlight-overlay.png" width="25" />  | Overlay highlight  | `e4dfde` | `6e6a86 15%` |
 | <img src="assets/rose-pine-dawn/highlight.png" width="25" />          | Highlight          | `eee9e6` | `6e6a86 8%`  |
 | <img src="assets/rose-pine-dawn/highlight-inactive.png" width="25" /> | Inactive highlight | `f2ede9` | `6e6a86 5%`  |
+
+## Terminals
+
+> For reference, see our [kitty](https://github.com/rose-pine/kitty) theme
+
+| Usage                   | Palette      |
+| ----------------------- | ------------ |
+| Foreground              | Text         |
+| Background              | Base         |
+| Selection foreground    | Text         |
+| Selection background    | Highlight    |
+| Links                   | Iris         |
+| Cursor                  | Ignored text |
+| Cursor text             | Text         |
+| Active tab foreground   | Text         |
+| Active tab background   | Overlay      |
+| Inactive tab foreground | Subtle       |
+| Inactive tab background | Base         |
+| Black                   | Overlay      |
+| Black (bright)          | Subtle       |
+| Red                     | Love         |
+| Red (bright)            | Love         |
+| Green                   | Pine         |
+| Green (bright)          | Pine         |
+| Yellow                  | Gold         |
+| Yellow (bright)         | Gold         |
+| Blue                    | Foam         |
+| Blue (bright)           | Foam         |
+| Magenta                 | Iris         |
+| Magenta (bright)        | Iris         |
+| Cyan                    | Rose         |
+| Cyan (bright)           | Rose         |
+| White                   | Text         |
+| White (bright)          | Text         |
