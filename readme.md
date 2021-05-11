@@ -36,7 +36,6 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Emacs](https://github.com/thongpv87/rose-pine-emacs) by caelie
 - [Neovim](https://github.com/mvllow/nvim) by [mvllow](https://github.com/mvllow)
 - [Sublime Text](https://github.com/rose-pine/sublime-text)
-- [Vim](https://gitlab.com/co1ncidence/rose-pine) by [co1ncidence](https://github.com/co1ncidence)
 - [Vim](https://github.com/iandwelker/rose-pine-vim) by [iandwelker](https://github.com/iandwelker)
 - ⍟ [VSCode](https://github.com/rose-pine/vscode)
 
