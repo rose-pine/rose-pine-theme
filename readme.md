@@ -25,7 +25,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 
 ### Featured
 
-- ⍟ [VSCode](https://github.com/rose-pine/vscode)
+- [VSCode](https://github.com/rose-pine/vscode)
 - [Hyper](https://github.com/rose-pine/hyper)
 - [GTK 3](https://github.com/rose-pine/gtk)
 - [Wallpapers](https://github.com/rose-pine/wallpapers)
@@ -34,7 +34,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 
 - [Atom](https://github.com/rose-pine/atom)
 - [Emacs](https://github.com/thongpv87/rose-pine-emacs) by caelie
-- [Neovim](https://github.com/rose-pine/neovim)
+- ⍟ [Neovim](https://github.com/rose-pine/neovim)
 - [Sublime Text](https://github.com/rose-pine/sublime-text)
 - [Vim](https://github.com/iandwelker/rose-pine-vim) by [iandwelker](https://github.com/iandwelker)
 - ⍟ [VSCode](https://github.com/rose-pine/vscode)
@@ -46,7 +46,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Alacritty](https://github.com/rose-pine/alacritty)
 - [Fluent Terminal](https://github.com/rose-pine/fluent-terminal)
 - [Gnome Terminal](https://github.com/rose-pine/gnome-terminal)
-- [Hyper](https://github.com/rose-pine/hyper)
+- ⍟ [Hyper](https://github.com/rose-pine/hyper)
 - ⍟ [iTerm](https://github.com/rose-pine/iterm)
 - ⍟ [Kitty](https://github.com/rose-pine/kitty)
 - [Konsole](https://github.com/rose-pine/konsole)
