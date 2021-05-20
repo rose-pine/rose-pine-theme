@@ -38,6 +38,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Sublime Text](https://github.com/rose-pine/sublime-text)
 - [Vim](https://github.com/iandwelker/rose-pine-vim) by [iandwelker](https://github.com/iandwelker)
 - ⍟ [VSCode](https://github.com/rose-pine/vscode)
+- [Xcode](https://github.com/ldakhoa/rose-pine-xcode) by [ldakhoa](https://github.com/ldakhoa)
 
 ### Terminal
 
