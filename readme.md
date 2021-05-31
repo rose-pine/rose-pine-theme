@@ -68,6 +68,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 
 ### Web
 
+- ⍟ [Amfora](https://github.com/rose-pine/amfora)
 - [Bear ʕ•ᴥ•ʔ](https://github.com/rose-pine/bear-blog)
 - [Dark Reader](https://github.com/rose-pine/dark-reader)
 - [Firefox](https://github.com/rose-pine/firefox)
