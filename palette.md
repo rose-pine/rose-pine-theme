@@ -7,7 +7,7 @@
 
 ## Palette Tool
 
-> This palette is also available as an installable [Color Palette Tool](https://github.com/rose-pine/palette) for easy access to hex codes.
+> This palette is also available as an installable [color palette tool](https://github.com/rose-pine/palette) for easy access to hex codes.
 
 ## Rosé Pine
 
