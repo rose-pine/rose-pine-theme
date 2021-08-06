@@ -72,6 +72,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - ⍟ [Bear ʕ•ᴥ•ʔ](https://github.com/rose-pine/bear-blog)
 - [Dark Reader](https://github.com/rose-pine/dark-reader)
 - [Firefox](https://github.com/rose-pine/firefox)
+- [Mastodon](https://github.com/rose-pine/mastodon)
 - [Monkeytype](https://github.com/rose-pine/monkeytype)
 - [Startpage](https://github.com/rose-pine/startpage)
 
