@@ -34,10 +34,10 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 
 - [Atom](https://github.com/rose-pine/atom)
 - [Emacs](https://github.com/thongpv87/rose-pine-emacs) by caelie
-- ⍟ [Neovim](https://github.com/rose-pine/neovim)
+- [Neovim](https://github.com/rose-pine/neovim)
 - [Sublime Text](https://github.com/rose-pine/sublime-text)
 - [Vim](https://github.com/iandwelker/rose-pine-vim) by [iandwelker](https://github.com/iandwelker)
-- ⍟ [VSCode](https://github.com/rose-pine/vscode)
+- [VSCode](https://github.com/rose-pine/vscode)
 - [Xcode](https://github.com/ldakhoa/rose-pine-xcode) by [ldakhoa](https://github.com/ldakhoa)
 
 ### Terminal
@@ -47,12 +47,12 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Alacritty](https://github.com/rose-pine/alacritty)
 - [Fluent Terminal](https://github.com/rose-pine/fluent-terminal)
 - [Gnome Terminal](https://github.com/rose-pine/gnome-terminal)
-- ⍟ [Hyper](https://github.com/rose-pine/hyper)
-- ⍟ [iTerm](https://github.com/rose-pine/iterm)
-- ⍟ [Kitty](https://github.com/rose-pine/kitty)
+- [Hyper](https://github.com/rose-pine/hyper)
+- [iTerm](https://github.com/rose-pine/iterm)
+- [Kitty](https://github.com/rose-pine/kitty)
 - [Konsole](https://github.com/rose-pine/konsole)
 - [MinTTY](https://github.com/rose-pine/mintty)
-- ⍟ [Terminal.app](https://github.com/rose-pine/terminal.app)
+- [Terminal.app](https://github.com/rose-pine/terminal.app)
 - [Terminator](https://github.com/rose-pine/terminator)
 - [Termite](https://github.com/rose-pine/termite)
 - [Windows Terminal](https://github.com/rose-pine/windows-terminal)
@@ -68,8 +68,8 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 
 ### Web
 
-- ⍟ [Amfora](https://github.com/rose-pine/amfora)
-- ⍟ [Bear ʕ•ᴥ•ʔ](https://github.com/rose-pine/bear-blog)
+- [Amfora](https://github.com/rose-pine/amfora)
+- [Bear ʕ•ᴥ•ʔ](https://github.com/rose-pine/bear-blog)
 - [Dark Reader](https://github.com/rose-pine/dark-reader)
 - [Firefox](https://github.com/rose-pine/firefox)
 - [Mastodon](https://github.com/rose-pine/mastodon)
