@@ -74,6 +74,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Firefox](https://github.com/rose-pine/firefox)
 - [Mastodon](https://github.com/rose-pine/mastodon)
 - [Monkeytype](https://github.com/rose-pine/monkeytype)
+- [Prism](https://github.com/rose-pine/prism)
 - [Startpage](https://github.com/rose-pine/startpage)
 
 ### System
