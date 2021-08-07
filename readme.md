@@ -52,19 +52,19 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Kitty](https://github.com/rose-pine/kitty)
 - [Konsole](https://github.com/rose-pine/konsole)
 - [MinTTY](https://github.com/rose-pine/mintty)
+- [st](https://github.com/rose-pine/st)
 - [Terminal.app](https://github.com/rose-pine/terminal.app)
 - [Terminator](https://github.com/rose-pine/terminator)
 - [Termite](https://github.com/rose-pine/termite)
 - [Windows Terminal](https://github.com/rose-pine/windows-terminal)
 - [XFCE Terminal](https://github.com/rose-pine/xfce-terminal)
-- [st](https://github.com/rose-pine/st)
 
 ### Productivity
 
 - [Desmos Destkop](https://github.com/rose-pine/desmos-desktop)
+- [Matplotlib](https://github.com/h4pZ/rose-pine-matplotlib) by [h4pZ](https://github.com/h4pz)
 - [Typora](https://github.com/rose-pine/typora)
 - [Zathura](https://github.com/edunfelt/zathura) by [edunfelt](https://github.com/edunfelt)
-- [Matplotlib](https://github.com/h4pZ/rose-pine-matplotlib) by [h4pZ](https://github.com/h4pz)
 
 ### Web
 
