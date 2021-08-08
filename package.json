@@ -1,0 +1,15 @@
+{
+  "name": "rose-pine-site",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repo": "https://github.com/rose-pine/rose-pine-site",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "colors-convert": "^1.4.1",
+    "vitepress": "^0.15.6"
+  }
+}
