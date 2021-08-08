@@ -7,6 +7,7 @@ module.exports = {
       { text: "Themes", link: "/themes" },
       { text: "Palette", link: "/palette" },
       { text: "Contributing", link: "/contributing" },
+      { text: "Twitter", link: "https://twitter.com/rosepinetheme" },
       { text: "GitHub", link: "https://github.com/rose-pine/rose-pine-theme" },
     ],
   },
