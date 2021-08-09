@@ -1,3 +1,10 @@
+<link rel="shortcut icon" type="image/png" href="/assets/logo.png">
+<meta name="theme-color" content="#C4A7E7"/>
+<meta name="description" content="All natural pine, faux fur and a bit of soho vibes for the classy minimalist">
+<meta property="og:image" content="https://rose-pine-images.vercel.app/.png?theme=default"/>
+<meta property="twitter:image" content="/assets/logo.png"/>
+<meta name="twitter:card" content="summary_large_image">
+
 ---
 home: true
 heroImage: /assets/logo.png
