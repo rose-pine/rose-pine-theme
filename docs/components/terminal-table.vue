@@ -24,7 +24,7 @@ const colorsByRole = {
   },
   subtle: {
     dark: "#6e6a86",
-    moon: "#87c9c",
+    moon: "#817c9c",
     dawn: "#6e6a86",
   },
   text: {
