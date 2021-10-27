@@ -81,6 +81,7 @@ We use [NerdFetch](https://github.com/thatonecalculator/nerdfetch) for some of o
 - [Mastodon](https://github.com/rose-pine/mastodon)
 - [Monkeytype](https://github.com/rose-pine/monkeytype)
 - [Prism](https://github.com/rose-pine/prism)
+- [Slack](https://github.com/rose-pine/slack)
 - [Startpage](https://github.com/rose-pine/startpage)
 
 ## System
