@@ -37,7 +37,6 @@ sidebar: false
 - [Emacs](https://github.com/thongpv87/rose-pine-emacs) by caelie
 - [Kakoune](https://gitea.nulo.in/Nulo/rose-pine.kak) by [Nulo](https://nulo.in)
 - [Neovim](https://github.com/rose-pine/neovim)
-- [R Markdown](https://github.com/rose-pine/r-markdown)
 - [Sublime Text](https://github.com/rose-pine/sublime-text)
 - [Vim](https://github.com/iandwelker/rose-pine-vim) by [iandwelker](https://github.com/iandwelker)
 - [VSCode](https://github.com/rose-pine/vscode)
@@ -82,6 +81,7 @@ We use [NerdFetch](https://github.com/thatonecalculator/nerdfetch) for some of o
 - [Mastodon](https://github.com/rose-pine/mastodon)
 - [Monkeytype](https://github.com/rose-pine/monkeytype)
 - [Prism](https://github.com/rose-pine/prism)
+- [R Markdown](https://github.com/rose-pine/r-markdown)
 - [Slack](https://github.com/rose-pine/slack)
 - [Startpage](https://github.com/rose-pine/startpage)
 
