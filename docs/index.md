@@ -35,5 +35,5 @@ features:
     details: Enjoy variants tailored for every hour of your day.
   - title: Community Driven
     details: With 40 ports and counting, Rosé Pine is on its way to all your favorite platforms.
-footer: MIT Licensed | Copyright © 2020-present Rosé Pine & Contributors
+footer: MIT Licensed | Copyright © 2020-2021 Rosé Pine & Contributors
 ---
