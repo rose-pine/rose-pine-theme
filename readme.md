@@ -72,11 +72,13 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Amfora](https://github.com/rose-pine/amfora)
 - [Bear ʕ•ᴥ•ʔ](https://github.com/rose-pine/bear-blog)
 - [Dark Reader](https://github.com/rose-pine/dark-reader)
+- [Discord](https://github.com/rose-pine/discord)
 - [Firefox](https://github.com/rose-pine/firefox)
 - [Mastodon](https://github.com/rose-pine/mastodon)
 - [Monkeytype](https://github.com/rose-pine/monkeytype)
 - [Prism](https://github.com/rose-pine/prism)
 - [R Markdown](https://github.com/rose-pine/r-markdown)
+- [Revolt](https://github.com/rose-pine/revolt)
 - [Slack](https://github.com/rose-pine/slack)
 - [Startpage](https://github.com/rose-pine/startpage)
 
@@ -90,7 +92,6 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 ### Extras
 
 - [Base16](https://github.com/edunfelt/base16-rose-pine-scheme) by [edunfelt](https://github.com/edunfelt)
-- [BetterDiscord](https://github.com/rose-pine/betterdiscord)
 - [Cmus](https://github.com/Iorvethe/cmus) by [Iorvethe](https://github.com/Iorvethe)
 - [Discord RPC Maker](https://github.com/rose-pine/discordrpcmaker)
 - [Razer-CLI](https://github.com/rose-pine/razer-cli)
