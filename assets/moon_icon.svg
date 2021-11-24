@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   fill="none"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="dawn_icon.svg"
+   inkscape:export-filename="/home/kainoa/Downloads/moon_icon_small.png"
+   inkscape:export-xdpi="6.1440001"
+   inkscape:export-ydpi="6.1440001"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.1752115"
+     inkscape:cx="285.90599"
+     inkscape:cy="294.84055"
+     inkscape:window-width="1263"
+     inkscape:window-height="687"
+     inkscape:window-x="1285"
+     inkscape:window-y="42"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <rect
+     width="500"
+     height="500"
+     rx="250"
+     fill="#1F1D2E"
+     id="rect2"
+     inkscape:export-filename="/home/kainoa/Downloads/dawn_icon_small.png"
+     inkscape:export-xdpi="6.1440001"
+     inkscape:export-ydpi="6.1440001"
+     style="fill:#2a273f;fill-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M249.983 307.358C245.184 295.832 235.279 286.579 222.287 283.098L165.941 268C158.794 294.673 174.623 322.09 201.296 329.237L241.543 340.021C244.382 340.782 247.27 339.981 249.298 338.146C251.3 340.672 254.679 341.909 257.99 341.021L298.237 330.237C324.911 323.09 340.74 295.673 333.593 269L277.247 284.098C264.632 287.478 254.928 296.298 249.983 307.358Z"
+     fill="#31748F"
+     fill-opacity="0.5"
+     id="path4"
+     style="fill:#31748f;fill-opacity:0.50196081" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M250 333.001C245.368 310.178 225.19 293 201 293L151 293C151 320.614 173.386 343 201 343L249 343H251L299 343C326.614 343 349 320.614 349 293L299 293C274.81 293 254.632 310.178 250 333.001Z"
+     fill="#31748F"
+     id="path6"
+     style="fill:#3e8fb0;fill-opacity:1" />
+  <circle
+     cx="249.5"
+     cy="215.5"
+     r="37.5"
+     fill="#EFEFEF"
+     id="circle8" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M246.918 156C256.118 161.312 262.991 169.106 267.181 178.048C279.154 168.575 295.298 164.686 311.178 168.941L298.237 217.237C293.474 235.013 279.709 247.973 263.16 252.525L263.178 252.593C258.805 253.765 254.411 254.319 250.09 254.309C245.768 254.319 241.374 253.765 237 252.593L237.018 252.525C220.47 247.973 206.704 235.013 201.941 217.237L189 168.941C205.262 164.584 221.801 168.766 233.853 178.74C234.217 178.036 234.599 177.336 235 176.642L246.918 156Z"
+     fill="#EBBCBA"
+     id="path10"
+     style="fill:#ea9a97;fill-opacity:1" />
+</svg>
