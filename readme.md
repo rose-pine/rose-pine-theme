@@ -23,11 +23,13 @@
 
 The community is encouraged to port Rosé Pine to their favourite apps 🌸
 
+![](assets/rose_icon_small.png) means that an app has the Rosé Pine theme, ![](assets/moon_icon_small.png) means that an app has the Rosé Pine Moon theme, and ![](assets/dawn_icon_small.png) means that an app has the Rosé Pine Dawn theme.
+
 ### Featured
 
-- [VSCode](https://github.com/rose-pine/vscode)
-- [Hyper](https://github.com/rose-pine/hyper)
-- [GTK 3](https://github.com/rose-pine/gtk)
+- [VSCode](https://github.com/rose-pine/vscode) ![](assets/rose_icon_small.png) ![](assets/moon_icon_small.png) ![](assets/dawn_icon_small.png)
+- [Hyper](https://github.com/rose-pine/hyper) 
+- [GTK 3](https://github.com/rose-pine/gtk)  
 - [Wallpapers](https://github.com/rose-pine/wallpapers)
 
 ### Development
