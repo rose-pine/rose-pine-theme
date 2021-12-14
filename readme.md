@@ -65,6 +65,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 
 - [Desmos Destkop](https://github.com/rose-pine/desmos-desktop)
 - [Matplotlib](https://github.com/h4pZ/rose-pine-matplotlib) by [h4pZ](https://github.com/h4pz)
+- [Obsidian](https://github.com/mimishahzad/rose-pine-moon-obsidian) by [mimishahzad](https://github.com/mimishahzad)
 - [Typora](https://github.com/rose-pine/typora)
 - [Zathura](https://github.com/edunfelt/zathura) by [edunfelt](https://github.com/edunfelt)
 
