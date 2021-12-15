@@ -85,6 +85,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Revolt](https://github.com/rose-pine/revolt) ![](assets/alt.png)
 - [Slack](https://github.com/rose-pine/slack) ![](assets/alt.png)
 - [Startpage](https://github.com/rose-pine/startpage)
+- [WriteFreely](https://github.com/rose-pine/writefreely)
 
 ### System
 
