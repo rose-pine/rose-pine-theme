@@ -23,11 +23,13 @@
 
 The community is encouraged to port Rosé Pine to their favourite apps 🌸
 
+![](assets/alt.png) means a repo features Rosé Pine Moon and/or Rosé Pine Dawn, not just the base theme.
+
 ### Featured
 
-- [VSCode](https://github.com/rose-pine/vscode)
-- [Hyper](https://github.com/rose-pine/hyper)
-- [GTK 3](https://github.com/rose-pine/gtk)
+- [VSCode](https://github.com/rose-pine/vscode) ![](assets/alt.png)
+- [Hyper](https://github.com/rose-pine/hyper) ![](assets/alt.png)
+- [GTK 3](https://github.com/rose-pine/gtk) ![](assets/alt.png)
 - [Wallpapers](https://github.com/rose-pine/wallpapers)
 
 ### Development
