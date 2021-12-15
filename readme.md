@@ -35,69 +35,69 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 ### Development
 
 - [Atom](https://github.com/rose-pine/atom)
-- [Emacs](https://github.com/thongpv87/rose-pine-emacs) by caelie
-- [IntelliJ](https://github.com/jmorjsm/rose-pine-intellij) by [jmorjsm](https://github.com/jmorjsm)
-- [Kakoune](https://gitea.nulo.in/Nulo/rose-pine.kak) by [Nulo](https://nulo.in)
-- [Neovim](https://github.com/rose-pine/neovim)
+- [Emacs](https://github.com/thongpv87/rose-pine-emacs) by caelie ![](assets/alt.png)
+- [IntelliJ](https://github.com/jmorjsm/rose-pine-intellij) by [jmorjsm](https://github.com/jmorjsm) ![](assets/alt.png)
+- [Kakoune](https://gitea.nulo.in/Nulo/rose-pine.kak) by [Nulo](https://nulo.in) ![](assets/alt.png)
+- [Neovim](https://github.com/rose-pine/neovim) ![](assets/alt.png)
 - [Sublime Text](https://github.com/rose-pine/sublime-text)
-- [Vim](https://github.com/iandwelker/rose-pine-vim) by [iandwelker](https://github.com/iandwelker)
-- [VSCode](https://github.com/rose-pine/vscode)
-- [Xcode](https://github.com/ldakhoa/rose-pine-xcode) by [ldakhoa](https://github.com/ldakhoa)
+- [Vim](https://github.com/iandwelker/rose-pine-vim) by [iandwelker](https://github.com/iandwelker) ![](assets/alt.png)
+- [VSCode](https://github.com/rose-pine/vscode) ![](assets/alt.png)
+- [Xcode](https://github.com/ldakhoa/rose-pine-xcode) by [ldakhoa](https://github.com/ldakhoa) ![](assets/alt.png)
 
 ### Terminal
 
 > Tip: We use [NerdFetch](https://github.com/thatonecalculator/nerdfetch) to make our lovely previews
 
-- [Alacritty](https://github.com/rose-pine/alacritty)
+- [Alacritty](https://github.com/rose-pine/alacritty) ![](assets/alt.png)
 - [Fluent Terminal](https://github.com/rose-pine/fluent-terminal)
 - [Gnome Terminal](https://github.com/rose-pine/gnome-terminal)
-- [Hyper](https://github.com/rose-pine/hyper)
-- [iTerm](https://github.com/rose-pine/iterm)
-- [Kitty](https://github.com/rose-pine/kitty)
+- [Hyper](https://github.com/rose-pine/hyper) ![](assets/alt.png)
+- [iTerm](https://github.com/rose-pine/iterm) ![](assets/alt.png)
+- [Kitty](https://github.com/rose-pine/kitty) ![](assets/alt.png)
 - [Konsole](https://github.com/rose-pine/konsole)
 - [MinTTY](https://github.com/rose-pine/mintty)
 - [st](https://github.com/rose-pine/st)
-- [Terminal.app](https://github.com/rose-pine/terminal.app)
+- [Terminal.app](https://github.com/rose-pine/terminal.app) ![](assets/alt.png)
 - [Terminator](https://github.com/rose-pine/terminator)
-- [Termite](https://github.com/rose-pine/termite)
-- [Windows Terminal](https://github.com/rose-pine/windows-terminal)
+- [Termite](https://github.com/rose-pine/termite) ![](assets/alt.png)
+- [Windows Terminal](https://github.com/rose-pine/windows-terminal) ![](assets/alt.png)
 - [XFCE Terminal](https://github.com/rose-pine/xfce-terminal)
 
 ### Productivity
 
 - [Desmos Destkop](https://github.com/rose-pine/desmos-desktop)
-- [Matplotlib](https://github.com/h4pZ/rose-pine-matplotlib) by [h4pZ](https://github.com/h4pz)
-- [Obsidian](https://github.com/mimishahzad/rose-pine-moon-obsidian) by [mimishahzad](https://github.com/mimishahzad)
+- [Matplotlib](https://github.com/h4pZ/rose-pine-matplotlib) by [h4pZ](https://github.com/h4pz) ![](assets/alt.png)
+- [Obsidian](https://github.com/mimishahzad/rose-pine-moon-obsidian) by [mimishahzad](https://github.com/mimishahzad) ![](assets/alt.png)
 - [Typora](https://github.com/rose-pine/typora)
-- [Zathura](https://github.com/edunfelt/zathura) by [edunfelt](https://github.com/edunfelt)
+- [Zathura](https://github.com/edunfelt/zathura) by [edunfelt](https://github.com/edunfelt) ![](assets/alt.png)
 
 ### Web
 
-- [Amfora](https://github.com/rose-pine/amfora)
+- [Amfora](https://github.com/rose-pine/amfora) ![](assets/alt.png)
 - [Bear ʕ•ᴥ•ʔ](https://github.com/rose-pine/bear-blog)
 - [Dark Reader](https://github.com/rose-pine/dark-reader)
-- [Discord](https://github.com/rose-pine/discord)
+- [Discord](https://github.com/rose-pine/discord) ![](assets/alt.png)
 - [Firefox](https://github.com/rose-pine/firefox)
 - [Mastodon](https://github.com/rose-pine/mastodon)
-- [Monkeytype](https://github.com/rose-pine/monkeytype)
-- [Prism](https://github.com/rose-pine/prism)
+- [Monkeytype](https://github.com/rose-pine/monkeytype) ![](assets/alt.png)
+- [Prism](https://github.com/rose-pine/prism) ![](assets/alt.png)
 - [R Markdown](https://github.com/rose-pine/r-markdown)
-- [Revolt](https://github.com/rose-pine/revolt)
-- [Slack](https://github.com/rose-pine/slack)
+- [Revolt](https://github.com/rose-pine/revolt) ![](assets/alt.png)
+- [Slack](https://github.com/rose-pine/slack) ![](assets/alt.png)
 - [Startpage](https://github.com/rose-pine/startpage)
 
 ### System
 
-- [bspwm](https://github.com/rose-pine/bspwm)
+- [bspwm](https://github.com/rose-pine/bspwm) ![](assets/alt.png)
 - [GRUB 2](https://github.com/rose-pine/grub)
-- [GTK 3](https://github.com/rose-pine/gtk)
+- [GTK 3](https://github.com/rose-pine/gtk) ![](assets/alt.png)
 - [Linux TTY](https://github.com/rose-pine/linux-tty)
 
 ### Extras
 
-- [Base16](https://github.com/edunfelt/base16-rose-pine-scheme) by [edunfelt](https://github.com/edunfelt)
+- [Base16](https://github.com/edunfelt/base16-rose-pine-scheme) by [edunfelt](https://github.com/edunfelt) ![](assets/alt.png)
 - [Cmus](https://github.com/Iorvethe/cmus) by [Iorvethe](https://github.com/Iorvethe)
-- [Discord RPC Maker](https://github.com/rose-pine/discordrpcmaker)
+- [Discord RPC Maker](https://github.com/rose-pine/discordrpcmaker) ![](assets/alt.png)
 - [Razer-CLI](https://github.com/rose-pine/razer-cli)
 - [Wallpapers](https://github.com/rose-pine/wallpapers)
 
