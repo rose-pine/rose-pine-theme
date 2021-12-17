@@ -92,7 +92,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [bspwm](https://github.com/rose-pine/bspwm) ![](assets/alt.png)
 - [GRUB 2](https://github.com/rose-pine/grub)
 - [GTK 3](https://github.com/rose-pine/gtk) ![](assets/alt.png)
-- [KDE](https://github.com/maybork/kde)
+- [KDE](https://github.com/maybork/kde) by [Ash](https://github.com/maybork)
 - [Linux TTY](https://github.com/rose-pine/linux-tty)
 
 ### Extras
