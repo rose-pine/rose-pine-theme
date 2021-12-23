@@ -78,6 +78,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Dark Reader](https://github.com/rose-pine/dark-reader)
 - [Discord](https://github.com/rose-pine/discord) ![](assets/alt.png)
 - [Firefox](https://github.com/rose-pine/firefox)
+- [Google Chrome](https://github.com/rose-pine/google-chrome) ![](assets/alt.png)
 - [Mastodon](https://github.com/rose-pine/mastodon)
 - [Monkeytype](https://github.com/rose-pine/monkeytype) ![](assets/alt.png)
 - [Prism](https://github.com/rose-pine/prism) ![](assets/alt.png)
