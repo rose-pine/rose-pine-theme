@@ -95,6 +95,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [GTK 3](https://github.com/rose-pine/gtk) ![](assets/alt.png)
 - [KDE](https://github.com/maybork/kde) by [Ash](https://github.com/maybork)
 - [Linux TTY](https://github.com/rose-pine/linux-tty)
+- [Rofi](https://github.com/rose-pine/rofi) ![](assets/alt.png)
 
 ### Extras
 
