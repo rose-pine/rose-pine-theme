@@ -97,6 +97,10 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Linux TTY](https://github.com/rose-pine/linux-tty)
 - [Rofi](https://github.com/rose-pine/rofi) ![](assets/alt.png)
 
+### Mobile
+
+- [Aliucord](https://github.com/rose-pine/aliucord)
+
 ### Extras
 
 - [Base16](https://github.com/edunfelt/base16-rose-pine-scheme) by [edunfelt](https://github.com/edunfelt) ![](assets/alt.png)
