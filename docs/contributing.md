@@ -37,9 +37,9 @@ Just here to show us some love? We 💛 social appreciation, whether it be GitHu
 - Format repo description as "Soho vibes for App"
 - Generate and upload social image via our [social image generator](https://rose-pine-images.vercel.app)
 
-## Contributers
+## Contributors
 
-Below is a list of our lovely contributers who have poured time into giving some of your favorite apps some nice soho vibes~
+Below is a list of our lovely contributors who have poured time into giving some of your favorite apps some nice soho vibes~
 
 - [ThatOneCalculator](https://t1c.dev)
 
