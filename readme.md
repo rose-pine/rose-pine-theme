@@ -38,6 +38,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Emacs](https://github.com/thongpv87/rose-pine-emacs) by caelie ![](assets/alt.png)
 - [IntelliJ](https://github.com/jmorjsm/rose-pine-intellij) by [jmorjsm](https://github.com/jmorjsm) ![](assets/alt.png)
 - [Kakoune](https://gitea.nulo.in/Nulo/rose-pine.kak) by [Nulo](https://nulo.in) ![](assets/alt.png)
+- [Helix](https://github.com/rose-pine/helix) by [RayGervais](https://github.com/raygervais) and [ChrisHa](https://github.com/chunghh) ![](assets/alt.png)
 - [Neovim](https://github.com/rose-pine/neovim) ![](assets/alt.png)
 - [Sublime Text](https://github.com/rose-pine/sublime-text)
 - [Vim](https://github.com/iandwelker/rose-pine-vim) by [iandwelker](https://github.com/iandwelker) ![](assets/alt.png)
