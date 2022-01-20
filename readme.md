@@ -19,6 +19,12 @@
   <img src="assets/palette-dawn.png" width="125" />
 </p>
 
+## Resources
+
+- [New theme template](https://github.com/rose-pine/rose-pine-template)
+- [Social image generator](https://rose-pine-images.vercel.app)
+- [Brand assets](https://github.com/rose-pine/rose-pine-theme/tree/main/assets)
+
 ## Contributing
 
 There's a plethora of surfaces out there waiting to be dipped in a lil Rosé Pine. See our [template](https://github.com/rose-pine/rose-pine-template) for more information and drop us a PR when ready over at the [Rosé Pine site repo](https://github.com/rose-pine/rose-pine-site). We can't wait to see what you create 🥰
