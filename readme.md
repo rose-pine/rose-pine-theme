@@ -24,6 +24,7 @@
 - [New theme template](https://github.com/rose-pine/rose-pine-template)
 - [Social image generator](https://rose-pine-images.vercel.app)
 - [Brand assets](https://github.com/rose-pine/rose-pine-theme/tree/main/assets)
+- [Palette tool](https://github.com/rose-pine/palette)
 
 ## Contributing
 
