@@ -28,6 +28,6 @@
 
 ## Contributing
 
-There's a plethora of surfaces out there waiting to be dipped in a lil Rosé Pine. See our [template](https://github.com/rose-pine/rose-pine-template) for more information and drop us a PR when ready over at the [Rosé Pine site repo](https://github.com/rose-pine/rose-pine-site). We can't wait to see what you create 🥰
+There's a plethora of surfaces out there waiting to be dipped in a lil Rosé Pine. See our [template](https://github.com/rose-pine/rose-pine-template) to get started and drop us a PR when ready over at the [Rosé Pine site repo](https://github.com/rose-pine/rose-pine-site). We can't wait to see what you create 🥰
 
-Just here to show us some love? We 💛 social appreciation, whether it be GitHub stars, Twitter follows, or shouting to your coworkers across the office.
+Just here to show us some love? We 💛 social appreciation, whether it be GitHub stars, [Twitter](https://twitter.com/rosepinetheme) follows, or shouting to your coworkers across the office.
