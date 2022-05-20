@@ -5,11 +5,6 @@ labels: theme request
 body:
   - type: input
     attributes:
-      label: App name
-    validations:
-      required: true
-  - type: input
-    attributes:
       label: Link to app
     validations:
       required: true
