@@ -3,12 +3,12 @@ description: Suggest a new theme
 title: Theme request for <app>
 labels: theme request
 body:
-  - type: textarea
+  - type: input
     attributes:
       label: App name
     validations:
       required: true
-  - type: textarea
+  - type: input
     attributes:
       label: Link to app
     validations:
