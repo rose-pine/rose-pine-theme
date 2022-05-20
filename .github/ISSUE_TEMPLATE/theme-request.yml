@@ -32,3 +32,8 @@ body:
         - Iris
     validations:
       required: false
+  - type: textarea
+    attributes:
+      label: Additional information
+    validations:
+      required: false
