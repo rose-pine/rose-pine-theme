@@ -5,11 +5,12 @@ labels: theme request
 body:
   - type: textarea
     attributes:
-      label: App details
-      value: |
-        - App name:
-        - Link to app:
-      render: markdown
+      label: App name
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Link to app
     validations:
       required: true
   - type: checkboxes
@@ -17,8 +18,6 @@ body:
       label: Would you be willing to work on this?
       options:
         - label: Sure
-        - label: Nope
-          required: true
   - type: dropdown
     id: issue-type
     attributes:
