@@ -11,7 +11,8 @@ body:
   - type: dropdown
     id: issue-type
     attributes:
-      label: What would you like to do with your repo? (If moved into the org, you will be added as a maintainer)
+      label: What would you like to do with your repo?
+      description: If moved into the org, you will be added as a maintainer
       multiple: false
       options:
         - Transfer my repo into the org
