@@ -1,0 +1,26 @@
+name: Add theme
+description: Add your theme to the Rosé Pine collection
+title: New theme for <app>
+labels: new theme
+body:
+  - type: input
+    attributes:
+      label: Link to theme repo
+    validations:
+      required: true
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: What would you like to do with your repo? (If moved into the org, you will be added as a maintainer)
+      multiple: false
+      options:
+        - Transfer my repo into the org
+        - Duplicate (clone) my repo into the org
+        - Keep my repo under my personal account
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Additional information
+    validations:
+      required: false
