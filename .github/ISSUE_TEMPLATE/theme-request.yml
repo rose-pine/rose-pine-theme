@@ -1,0 +1,35 @@
+name: Theme request
+description: Suggest a new theme
+title: Theme request for <app>
+labels: theme request
+body:
+  - type: textarea
+    attributes:
+      label: App details
+      value: |
+        - App name:
+        - Link to app:
+      render: markdown
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Would you be willing to work on this?
+      options:
+        - label: Sure
+        - label: Nope
+          required: true
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: What is your favourite Rosé Pine accent
+      multiple: false
+      options:
+        - Love
+        - Gold
+        - Rose
+        - Pine
+        - Foam
+        - Iris
+    validations:
+      required: false
