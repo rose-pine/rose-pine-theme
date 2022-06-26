@@ -1,7 +1,6 @@
 name: Theme request
 description: Suggest a new theme
 title: Theme request for <app>
-labels: theme request
 body:
   - type: input
     attributes:
