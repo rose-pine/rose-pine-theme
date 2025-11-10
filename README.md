@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/palette.png" width="125" />
-  <img src="assets/palette-moon.png" width="125" />
-  <img src="assets/palette-dawn.png" width="125" />
+  <a href="https://rosepinetheme.com/palette">
+    <img width="360" alt="Rosé Pine palette" src="https://github.com/user-attachments/assets/38381e5e-567d-47f6-879c-82011ad17505" />
+  </a>
 </p>
 
 ## Resources
