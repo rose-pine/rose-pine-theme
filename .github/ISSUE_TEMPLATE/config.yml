@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Theme submission
+    url: https://github.com/rose-pine/rose-pine-site/issues/new?template=theme.yaml
+    about: Add your theme to the Rosé Pine collection
